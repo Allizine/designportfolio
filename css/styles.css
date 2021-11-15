@@ -1,0 +1,30 @@
+.container {
+    background-color: rgb(175, 174, 174);
+}
+
+.name {
+    text-align: center;
+}
+
+.career {
+    text-align: center;
+}
+
+.projects {
+    text-align: center;
+}
+
+.cabbage {
+    border: 5px red dotted;
+}
+
+.plist {
+    text-align: center;
+}
+
+/* .code {
+    border: 10px black ridge;
+    height:  1000px;
+    width: 688px;
+} */
+
